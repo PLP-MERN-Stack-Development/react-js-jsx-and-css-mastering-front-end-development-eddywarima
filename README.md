@@ -1,8 +1,4 @@
-TaskMaster - React Task Management Application
-https://img.shields.io/badge/React-18.2.0-blue
-https://img.shields.io/badge/Vite-4.4.5-purple
-https://img.shields.io/badge/Tailwind-3.3.3-cyan
-https://img.shields.io/badge/License-MIT-green
+ https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-eddywarima/
 
 A modern, responsive React application built with Vite that demonstrates comprehensive React development skills including component architecture, state management, API integration, and responsive design.
 
